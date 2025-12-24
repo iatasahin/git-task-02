@@ -2,6 +2,8 @@ A line numbered 01
 A line numbered 02
 A line numbered 13, nope
 A line numbered 14, nope
+A line numbered 04, or is it?
+A line numbered 03, or is it?
 A line numbered 05
 A line numbered 06
 A line numbered 07
